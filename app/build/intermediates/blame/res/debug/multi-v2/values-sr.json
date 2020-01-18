@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml",
+            "outputFile": "E:\\Android-Project-F19\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sr\\values-sr.xml",
             "map": [
                 {
-                    "source": "/Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0090535c656ae14e1b4ccf3581123e27/res/values-sr/values-sr.xml",
+                    "source": "C:\\Users\\anast\\.gradle\\caches\\transforms-2\\files-2.1\\ab48f66bb0cbab10964dce86dc461d46\\appcompat-v7-27.1.1\\res\\values-sr\\values-sr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,317,423,509,613,731,812,892,980,1085,1193,1294,1398,1506,1607,1774,1871",
+                        "endColumns": "108,102,105,85,103,117,80,79,87,104,107,100,103,107,100,166,96,83",
+                        "endOffsets": "209,312,418,504,608,726,807,887,975,1080,1188,1289,1393,1501,1602,1769,1866,1950"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\anast\\.gradle\\caches\\transforms-2\\files-2.1\\f377e1311ed0dd77f25d79fef1893c92\\support-compat-27.1.1\\res\\values-sr\\values-sr.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -18,16 +28,6 @@
                         "startOffsets": "1955",
                         "endColumns": "100",
                         "endOffsets": "2051"
-                    }
-                },
-                {
-                    "source": "/Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/5b5beece3d03eccaf0c0385a9c312f81/res/values-sr/values-sr.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,214,317,423,509,613,731,812,892,980,1085,1193,1294,1398,1506,1607,1774,1871",
-                        "endColumns": "108,102,105,85,103,117,80,79,87,104,107,100,103,107,100,166,96,83",
-                        "endOffsets": "209,312,418,504,608,726,807,887,975,1080,1188,1289,1393,1501,1602,1769,1866,1950"
                     }
                 }
             ]

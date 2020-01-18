@@ -46,9 +46,12 @@ public class WelcomeActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_welcome);
 
-        if (SyncUser.current() != null) {
-            gotoListActivity();
-        }
+        //If user has already logged in , skip the welcome page(sign in/sign up)
+        //and go to item list
+//        if (SyncUser.current() != null)
+//        {
+//            gotoListActivity();
+//        }
 
         // Set up the login form.
         usernameView = findViewById(R.id.username);
@@ -80,7 +83,7 @@ public class WelcomeActivity extends AppCompatActivity {
             @Override
             public void onError(ObjectServerError error) {
                 showProgress(false);
-                usernameView.setError("Uh oh something went wrong! (check your logcat please)");
+                usernameView.setError("Error->)"+ error);
                 usernameView.requestFocus();
                 Log.e("Login error", error.toString());
             }
@@ -112,8 +115,8 @@ public class WelcomeActivity extends AppCompatActivity {
     }
 
     private void gotoListActivity() {
-        Intent intent = new Intent(WelcomeActivity.this, TasksActivity.class);
-        intent.putExtra(TasksActivity.INTENT_EXTRA_PROJECT_URL, Constants.REALM_URL + "/~/project");
+        Intent intent = new Intent(WelcomeActivity.this, ItemListActivity.class);
+        intent.putExtra(ItemListActivity.INTENT_EXTRA_PROJECT_URL, Constants.REALM_URL + "/~/project");
         startActivity(intent);
     }
 }

@@ -602,6 +602,7 @@ dimen abc_text_size_title_material
 dimen abc_text_size_title_material_toolbar
 dimen activity_horizontal_margin
 dimen activity_vertical_margin
+dimen app_bar_height
 dimen compat_button_inset_horizontal_material
 dimen compat_button_inset_vertical_material
 dimen compat_button_padding_horizontal_material
@@ -661,6 +662,7 @@ dimen hint_pressed_alpha_material_light
 dimen item_touch_helper_max_drag_scroll_per_frame
 dimen item_touch_helper_swipe_escape_max_velocity
 dimen item_touch_helper_swipe_escape_velocity
+dimen item_width
 dimen notification_action_icon_size
 dimen notification_action_text_size
 dimen notification_big_circle_margin
@@ -676,6 +678,7 @@ dimen notification_small_icon_size_as_large
 dimen notification_subtext_size
 dimen notification_top_pad
 dimen notification_top_pad_large_text
+dimen text_margin
 dimen tooltip_corner_radius
 dimen tooltip_horizontal_padding
 dimen tooltip_margin
@@ -823,6 +826,7 @@ id add
 id alertTitle
 id all
 id always
+id app_bar
 id async
 id auto
 id barrier
@@ -842,6 +846,7 @@ id clip_horizontal
 id clip_vertical
 id collapseActionView
 id container
+id content
 id contentPanel
 id coordinator
 id custom
@@ -853,6 +858,7 @@ id design_menu_item_action_area
 id design_menu_item_action_area_stub
 id design_menu_item_text
 id design_navigation_view
+id detail_toolbar
 id dimensions
 id direct
 id disableHome
@@ -871,17 +877,22 @@ id fill_horizontal
 id fill_vertical
 id fixed
 id forever
+id frameLayout
 id ghost_view
 id gone
 id home
 id homeAsUp
 id icon
 id icon_group
+id id_text
 id ifRoom
 id image
 id info
 id invisible
 id italic
+id item_detail
+id item_detail_container
+id item_list
 id item_touch_helper_previous_elevation
 id largeLabel
 id left
@@ -977,6 +988,7 @@ id title
 id titleDividerNoCustom
 id title_template
 id toolbar
+id toolbar_layout
 id top
 id topPanel
 id touch_outside
@@ -1031,6 +1043,8 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_item_detail
+layout activity_item_list
 layout activity_items
 layout activity_welcome
 layout content_items
@@ -1049,7 +1063,10 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_password_icon
 layout dialog_task
+layout item_detail
 layout item_layout
+layout item_list
+layout item_list_content
 layout notification_action
 layout notification_action_tombstone
 layout notification_media_action
@@ -1123,6 +1140,8 @@ string project_description
 string search_menu_title
 string status_bar_notification_info_overflow
 string title_activity_items
+string title_item_detail
+string title_item_list
 string username_hint
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light

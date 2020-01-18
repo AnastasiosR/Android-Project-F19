@@ -1,149 +1,169 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml:2:1-30:12
-MERGED from [io.realm:realm-android-library-object-server:6.0.2] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-6.0.2.aar/e855245e80d8d478bbbd2ebe33d0f518/AndroidManifest.xml:2:1-13:12
-MERGED from [com.android.support:design:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/1d94732a9ec5879c0384f3f63d60229b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/5b5beece3d03eccaf0c0385a9c312f81/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/40a10610f68bf9cc858f145bab827427/AndroidManifest.xml:2:1-11:12
-MERGED from [io.realm:android-adapters:3.0.0] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/android-adapters-3.0.0.aar/b9eb78642df172af68408c26d5b77895/AndroidManifest.xml:2:1-9:12
-MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/relinker-1.3.0.aar/7d29f72c19c43376ac0aaa4e9830fad0/AndroidManifest.xml:2:1-7:12
-MERGED from [com.android.support:support-v4:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/2fbbc3bd9bc885de6d0d9702d8503487/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/f0ce4b170d0043d7b0ceb374d736ac84/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/6512009210dd0f4767eef6f803999cb3/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/f199ef0bd5f0d240cb8c938a2184b7d9/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f9a0f2be4d1edf263ebd0c63d62d63e2/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e01edc8f8ff101d9afa9c48fc51e48e8/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/1f822bf7aaaf01b7050b2b04b0e6eb98/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/d2698fe43c18cb3a692dd63f12a1b2ce/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/554b5a689bec58178a52f508746d909f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0090535c656ae14e1b4ccf3581123e27/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/fce50dd939d03fa7fee3446c45ea8b8d/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6a8e87eb2c887fa6c2fc1e2b548926de/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4a48d7b3927975e612092c5de263b10d/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5037e096e8e8bdaaf9848638e13dafce/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml:2:1-30:12
+ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:2:1-41:12
+MERGED from [io.realm:realm-android-library-object-server:6.1.0] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\bd6d0c2a29fbcdc20817c8511ff50c4b\realm-android-library-object-server-6.1.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\e21c7f5b81cc2023ceba45e6d322b32b\design-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\ab48f66bb0cbab10964dce86dc461d46\appcompat-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\74dbc090a5e506f557d80d5be32f928d\constraint-layout-1.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [io.realm:android-adapters:3.0.0] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\424ff50788c7dd1b544ab84da332d6d9\android-adapters-3.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\54e3fe67101e96f277f937ded82448fc\support-v4-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\ddd91a5a30445df232bc5d2083b3987c\recyclerview-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.0] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\20a6a6eacfad85b988e4dc03509fb627\relinker-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\8001e51fbc05de110138a148b073a6ac\support-fragment-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\719cd5bc10375ba3d38a4a33966fe8b3\animated-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\138c8f075cf116a25b242b6b01a261da\support-core-ui-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\45121164574dce6ebe4a5fa3cdfbb9fc\support-core-utils-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\481756c3217bcd0d8baa7b1e68c78b4b\support-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\001522a98bb4fbd1a0f9975303a2afc3\transition-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\737313aa06fc3a76dca5ae2d8d4603ef\support-media-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\f377e1311ed0dd77f25d79fef1893c92\support-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\b2bc7bc889da38ef309f1f922d5e60d1\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\a08ae966d4c94d5923bf1a1600e6dc52\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\d61ea2344b29a86539f7d23accd810db\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\6288576f3f34033981fb95c6e0095ff8\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:2:1-41:12
 	package
-		ADDED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml:3:5-28
-		INJECTED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml
+		ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml
-		ADDED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml:2:1-30:12
-		INJECTED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml
+		INJECTED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml
-		ADDED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml:2:1-30:12
-		INJECTED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml
+		INJECTED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml:5:5-67
-MERGED from [io.realm:realm-android-library-object-server:6.0.2] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-6.0.2.aar/e855245e80d8d478bbbd2ebe33d0f518/AndroidManifest.xml:11:5-67
-MERGED from [io.realm:realm-android-library-object-server:6.0.2] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-6.0.2.aar/e855245e80d8d478bbbd2ebe33d0f518/AndroidManifest.xml:11:5-67
+ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [io.realm:realm-android-library-object-server:6.1.0] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\bd6d0c2a29fbcdc20817c8511ff50c4b\realm-android-library-object-server-6.1.0\AndroidManifest.xml:11:5-67
+MERGED from [io.realm:realm-android-library-object-server:6.1.0] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\bd6d0c2a29fbcdc20817c8511ff50c4b\realm-android-library-object-server-6.1.0\AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:6:22-64
 application
-ADDED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml:7:5-28:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/40a10610f68bf9cc858f145bab827427/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/40a10610f68bf9cc858f145bab827427/AndroidManifest.xml:9:5-20
+ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:8:5-39:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\74dbc090a5e506f557d80d5be32f928d\constraint-layout-1.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\74dbc090a5e506f557d80d5be32f928d\constraint-layout-1.1.0\AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml:11:9-41
+		ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:12:9-41
+	tools:ignore
+		ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:15:9-48
 	android:icon
-		ADDED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml:10:9-43
+		ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:11:9-43
 	android:allowBackup
-		ADDED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml:9:9-35
+		ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml:13:9-40
+		ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:14:9-40
 	android:name
-		ADDED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml:8:9-40
+		ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:9:9-40
 activity#io.realm.todo.WelcomeActivity
-ADDED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml:14:9-23:20
+ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:16:9-24:20
 	android:label
-		ADDED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml:16:13-45
+		ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:18:13-45
 	android:noHistory
-		ADDED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml:17:13-37
+		ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:19:13-37
 	android:name
-		ADDED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml:15:13-44
+		ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:17:13-44
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml:18:13-22:29
+ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:20:13-23:29
 action#android.intent.action.MAIN
-ADDED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml:19:17-69
+ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml:19:25-66
+		ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml:21:17-77
+ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml:21:27-74
-activity#io.realm.todo.TasksActivity
-ADDED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml:24:9-27:59
+		ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:22:27-74
+activity#io.realm.todo.ItemListActivity
+ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:25:9-28:59
 	android:label
-		ADDED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml:26:13-57
+		ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:27:13-52
 	android:theme
-		ADDED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml:27:13-56
+		ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:28:13-56
 	android:name
-		ADDED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml:25:13-42
+		ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:26:13-45
+activity#io.realm.todo.ItemDetailActivity
+ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:29:9-37:20
+	android:parentActivityName
+		ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:32:13-59
+	android:label
+		ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:31:13-54
+	android:theme
+		ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:33:13-56
+	android:name
+		ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:30:13-47
+meta-data#android.support.Child_ACTIVITY
+ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:34:13-36:66
+	android:value
+		ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:36:17-63
+	android:name
+		ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml:35:17-62
 uses-sdk
-INJECTED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml
-INJECTED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml
-MERGED from [io.realm:realm-android-library-object-server:6.0.2] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-6.0.2.aar/e855245e80d8d478bbbd2ebe33d0f518/AndroidManifest.xml:6:5-8:41
-MERGED from [io.realm:realm-android-library-object-server:6.0.2] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-6.0.2.aar/e855245e80d8d478bbbd2ebe33d0f518/AndroidManifest.xml:6:5-8:41
-MERGED from [com.android.support:design:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/1d94732a9ec5879c0384f3f63d60229b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/1d94732a9ec5879c0384f3f63d60229b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/5b5beece3d03eccaf0c0385a9c312f81/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/5b5beece3d03eccaf0c0385a9c312f81/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/40a10610f68bf9cc858f145bab827427/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/40a10610f68bf9cc858f145bab827427/AndroidManifest.xml:5:5-7:41
-MERGED from [io.realm:android-adapters:3.0.0] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/android-adapters-3.0.0.aar/b9eb78642df172af68408c26d5b77895/AndroidManifest.xml:5:5-7:41
-MERGED from [io.realm:android-adapters:3.0.0] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/android-adapters-3.0.0.aar/b9eb78642df172af68408c26d5b77895/AndroidManifest.xml:5:5-7:41
-MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/relinker-1.3.0.aar/7d29f72c19c43376ac0aaa4e9830fad0/AndroidManifest.xml:5:5-43
-MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/relinker-1.3.0.aar/7d29f72c19c43376ac0aaa4e9830fad0/AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/2fbbc3bd9bc885de6d0d9702d8503487/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/2fbbc3bd9bc885de6d0d9702d8503487/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/f0ce4b170d0043d7b0ceb374d736ac84/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/f0ce4b170d0043d7b0ceb374d736ac84/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/6512009210dd0f4767eef6f803999cb3/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/6512009210dd0f4767eef6f803999cb3/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/f199ef0bd5f0d240cb8c938a2184b7d9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/f199ef0bd5f0d240cb8c938a2184b7d9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f9a0f2be4d1edf263ebd0c63d62d63e2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f9a0f2be4d1edf263ebd0c63d62d63e2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e01edc8f8ff101d9afa9c48fc51e48e8/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e01edc8f8ff101d9afa9c48fc51e48e8/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/1f822bf7aaaf01b7050b2b04b0e6eb98/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/1f822bf7aaaf01b7050b2b04b0e6eb98/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/d2698fe43c18cb3a692dd63f12a1b2ce/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/d2698fe43c18cb3a692dd63f12a1b2ce/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/554b5a689bec58178a52f508746d909f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/554b5a689bec58178a52f508746d909f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0090535c656ae14e1b4ccf3581123e27/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0090535c656ae14e1b4ccf3581123e27/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/fce50dd939d03fa7fee3446c45ea8b8d/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/fce50dd939d03fa7fee3446c45ea8b8d/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6a8e87eb2c887fa6c2fc1e2b548926de/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6a8e87eb2c887fa6c2fc1e2b548926de/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4a48d7b3927975e612092c5de263b10d/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4a48d7b3927975e612092c5de263b10d/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5037e096e8e8bdaaf9848638e13dafce/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5037e096e8e8bdaaf9848638e13dafce/AndroidManifest.xml:20:5-44
-INJECTED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml
-INJECTED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml
+INJECTED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml
+MERGED from [io.realm:realm-android-library-object-server:6.1.0] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\bd6d0c2a29fbcdc20817c8511ff50c4b\realm-android-library-object-server-6.1.0\AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:realm-android-library-object-server:6.1.0] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\bd6d0c2a29fbcdc20817c8511ff50c4b\realm-android-library-object-server-6.1.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\e21c7f5b81cc2023ceba45e6d322b32b\design-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\e21c7f5b81cc2023ceba45e6d322b32b\design-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\ab48f66bb0cbab10964dce86dc461d46\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\ab48f66bb0cbab10964dce86dc461d46\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\74dbc090a5e506f557d80d5be32f928d\constraint-layout-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\74dbc090a5e506f557d80d5be32f928d\constraint-layout-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [io.realm:android-adapters:3.0.0] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\424ff50788c7dd1b544ab84da332d6d9\android-adapters-3.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [io.realm:android-adapters:3.0.0] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\424ff50788c7dd1b544ab84da332d6d9\android-adapters-3.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\54e3fe67101e96f277f937ded82448fc\support-v4-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\54e3fe67101e96f277f937ded82448fc\support-v4-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\ddd91a5a30445df232bc5d2083b3987c\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\ddd91a5a30445df232bc5d2083b3987c\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.0] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\20a6a6eacfad85b988e4dc03509fb627\relinker-1.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.0] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\20a6a6eacfad85b988e4dc03509fb627\relinker-1.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\8001e51fbc05de110138a148b073a6ac\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\8001e51fbc05de110138a148b073a6ac\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\719cd5bc10375ba3d38a4a33966fe8b3\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\719cd5bc10375ba3d38a4a33966fe8b3\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\138c8f075cf116a25b242b6b01a261da\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\138c8f075cf116a25b242b6b01a261da\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\45121164574dce6ebe4a5fa3cdfbb9fc\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\45121164574dce6ebe4a5fa3cdfbb9fc\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\481756c3217bcd0d8baa7b1e68c78b4b\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\481756c3217bcd0d8baa7b1e68c78b4b\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\001522a98bb4fbd1a0f9975303a2afc3\transition-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\001522a98bb4fbd1a0f9975303a2afc3\transition-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\737313aa06fc3a76dca5ae2d8d4603ef\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\737313aa06fc3a76dca5ae2d8d4603ef\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\f377e1311ed0dd77f25d79fef1893c92\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\f377e1311ed0dd77f25d79fef1893c92\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\b2bc7bc889da38ef309f1f922d5e60d1\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\b2bc7bc889da38ef309f1f922d5e60d1\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\a08ae966d4c94d5923bf1a1600e6dc52\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\a08ae966d4c94d5923bf1a1600e6dc52\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\d61ea2344b29a86539f7d23accd810db\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\d61ea2344b29a86539f7d23accd810db\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\6288576f3f34033981fb95c6e0095ff8\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\6288576f3f34033981fb95c6e0095ff8\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml
-		ADDED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml
+		INJECTED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml
-		ADDED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/src/main/AndroidManifest.xml
+		INJECTED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android-Project-F19\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [io.realm:realm-android-library-object-server:6.0.2] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-6.0.2.aar/e855245e80d8d478bbbd2ebe33d0f518/AndroidManifest.xml:10:5-79
+ADDED from [io.realm:realm-android-library-object-server:6.1.0] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\bd6d0c2a29fbcdc20817c8511ff50c4b\realm-android-library-object-server-6.1.0\AndroidManifest.xml:10:5-79
 	android:name
-		ADDED from [io.realm:realm-android-library-object-server:6.0.2] /Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-6.0.2.aar/e855245e80d8d478bbbd2ebe33d0f518/AndroidManifest.xml:10:22-76
+		ADDED from [io.realm:realm-android-library-object-server:6.1.0] C:\Users\anast\.gradle\caches\transforms-2\files-2.1\bd6d0c2a29fbcdc20817c8511ff50c4b\realm-android-library-object-server-6.1.0\AndroidManifest.xml:10:22-76

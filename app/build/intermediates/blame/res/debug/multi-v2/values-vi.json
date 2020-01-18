@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/anastasiosrigatos/Documents/realm5/my-first-realm-app/android/todo-full-sync/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml",
+            "outputFile": "E:\\Android-Project-F19\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-vi\\values-vi.xml",
             "map": [
                 {
-                    "source": "/Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/5b5beece3d03eccaf0c0385a9c312f81/res/values-vi/values-vi.xml",
+                    "source": "C:\\Users\\anast\\.gradle\\caches\\transforms-2\\files-2.1\\ab48f66bb0cbab10964dce86dc461d46\\appcompat-v7-27.1.1\\res\\values-vi\\values-vi.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/anastasiosrigatos/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0090535c656ae14e1b4ccf3581123e27/res/values-vi/values-vi.xml",
+                    "source": "C:\\Users\\anast\\.gradle\\caches\\transforms-2\\files-2.1\\f377e1311ed0dd77f25d79fef1893c92\\support-compat-27.1.1\\res\\values-vi\\values-vi.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
