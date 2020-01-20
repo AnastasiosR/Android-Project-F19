@@ -1,0 +1,169 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:2:1-41:12
+MERGED from [io.realm:realm-android-library-object-server:6.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/fad4fc77284a34b85d424d24e20ed18b/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/4f17975a9165b5f2fd3bdafff6d75aa9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/3463e9be30710e597de2ec4c176647cb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/3ac1ded051fbfc7b64de4a5e1aa4fbee/AndroidManifest.xml:2:1-11:12
+MERGED from [io.realm:android-adapters:3.0.0] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/5bdb7956b89321578dfc64e37284dd4f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/d94213ab1694a692c305d31d792ca404/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/159ad585d56ddb4b689d341865172b59/AndroidManifest.xml:17:1-22:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.0] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/81b5a6e21ffa6936b771801c67625826/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/5a0cfd0afc799eb5d1c9345fd50199c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/5ccfc627a85873c8a0454e7c50effd0d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/a7d01bb3be987860423bf26c5454a823/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/928fc70bf712bf39e60c7047c99b74fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/34fbda0520e9f39c627da7ec2685159b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/a60790fd2c3ca2d901a1a1a7ec854f9e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/9d0207a1a8f436ad7ef37c39e05a07b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/cbeb0b8092d16cbe77eea77e037db47f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/05885f9b54a5015a8b9cea526e67557c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/137aeae01a0686f8568830426d497f6b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/69f969f5c8526410980c4869a8b33dd7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/5b2bb4bd629ef9087f00d9536e96d864/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml
+		ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:2:1-41:12
+		INJECTED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml
+		ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:2:1-41:12
+		INJECTED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [io.realm:realm-android-library-object-server:6.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/fad4fc77284a34b85d424d24e20ed18b/AndroidManifest.xml:11:5-67
+MERGED from [io.realm:realm-android-library-object-server:6.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/fad4fc77284a34b85d424d24e20ed18b/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:8:5-39:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/3ac1ded051fbfc7b64de4a5e1aa4fbee/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/3ac1ded051fbfc7b64de4a5e1aa4fbee/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:12:9-41
+	tools:ignore
+		ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:15:9-48
+	android:icon
+		ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:9:9-40
+activity#io.realm.todo.WelcomeActivity
+ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:18:13-45
+	android:noHistory
+		ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:17:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:22:27-74
+activity#io.realm.todo.ItemListActivity
+ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:25:9-28:59
+	android:label
+		ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:27:13-52
+	android:theme
+		ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:26:13-45
+activity#io.realm.todo.ItemDetailActivity
+ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:29:9-37:20
+	android:parentActivityName
+		ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:32:13-59
+	android:label
+		ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:31:13-54
+	android:theme
+		ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:33:13-56
+	android:name
+		ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:30:13-47
+meta-data#android.support.Child_ACTIVITY
+ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:34:13-36:66
+	android:value
+		ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:36:17-63
+	android:name
+		ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml:35:17-62
+uses-sdk
+INJECTED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml
+INJECTED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml
+MERGED from [io.realm:realm-android-library-object-server:6.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/fad4fc77284a34b85d424d24e20ed18b/AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:realm-android-library-object-server:6.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/fad4fc77284a34b85d424d24e20ed18b/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:design:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/4f17975a9165b5f2fd3bdafff6d75aa9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/4f17975a9165b5f2fd3bdafff6d75aa9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/3463e9be30710e597de2ec4c176647cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/3463e9be30710e597de2ec4c176647cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/3ac1ded051fbfc7b64de4a5e1aa4fbee/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/3ac1ded051fbfc7b64de4a5e1aa4fbee/AndroidManifest.xml:5:5-7:41
+MERGED from [io.realm:android-adapters:3.0.0] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/5bdb7956b89321578dfc64e37284dd4f/AndroidManifest.xml:5:5-7:41
+MERGED from [io.realm:android-adapters:3.0.0] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/5bdb7956b89321578dfc64e37284dd4f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/d94213ab1694a692c305d31d792ca404/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/d94213ab1694a692c305d31d792ca404/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/159ad585d56ddb4b689d341865172b59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/159ad585d56ddb4b689d341865172b59/AndroidManifest.xml:20:5-44
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.0] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/81b5a6e21ffa6936b771801c67625826/AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.0] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/81b5a6e21ffa6936b771801c67625826/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/5a0cfd0afc799eb5d1c9345fd50199c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/5a0cfd0afc799eb5d1c9345fd50199c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/5ccfc627a85873c8a0454e7c50effd0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/5ccfc627a85873c8a0454e7c50effd0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/a7d01bb3be987860423bf26c5454a823/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/a7d01bb3be987860423bf26c5454a823/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/928fc70bf712bf39e60c7047c99b74fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/928fc70bf712bf39e60c7047c99b74fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/34fbda0520e9f39c627da7ec2685159b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/34fbda0520e9f39c627da7ec2685159b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/a60790fd2c3ca2d901a1a1a7ec854f9e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/a60790fd2c3ca2d901a1a1a7ec854f9e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/9d0207a1a8f436ad7ef37c39e05a07b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/9d0207a1a8f436ad7ef37c39e05a07b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/cbeb0b8092d16cbe77eea77e037db47f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/cbeb0b8092d16cbe77eea77e037db47f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/05885f9b54a5015a8b9cea526e67557c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/05885f9b54a5015a8b9cea526e67557c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/137aeae01a0686f8568830426d497f6b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/137aeae01a0686f8568830426d497f6b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/69f969f5c8526410980c4869a8b33dd7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/69f969f5c8526410980c4869a8b33dd7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/5b2bb4bd629ef9087f00d9536e96d864/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/5b2bb4bd629ef9087f00d9536e96d864/AndroidManifest.xml:20:5-44
+INJECTED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml
+INJECTED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml
+		ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml
+		ADDED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anastasiosrigatos/Documents/gitProjects/Android-Project-F19/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [io.realm:realm-android-library-object-server:6.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/fad4fc77284a34b85d424d24e20ed18b/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from [io.realm:realm-android-library-object-server:6.1.0] /Users/anastasiosrigatos/.gradle/caches/transforms-2/files-2.1/fad4fc77284a34b85d424d24e20ed18b/AndroidManifest.xml:10:22-76

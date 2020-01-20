@@ -28,9 +28,11 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
+
 import io.realm.ObjectServerError;
 import io.realm.SyncCredentials;
 import io.realm.SyncUser;
+import io.realm.annotations.PrimaryKey;
 
 import static io.realm.todo.Constants.AUTH_URL;
 
@@ -46,9 +48,15 @@ public class WelcomeActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_welcome);
 
-        if (SyncUser.current() != null) {
-            gotoListActivity();
-        }
+        //If user has already logged in , skip the welcome page(sign in/sign up)
+        //and go to item list
+//        if (SyncUser.current() != null)
+//        {
+//            gotoListActivity();
+//        }
+
+
+
 
         // Set up the login form.
         usernameView = findViewById(R.id.username);
@@ -59,7 +67,9 @@ public class WelcomeActivity extends AppCompatActivity {
         signUpButton.setOnClickListener(view -> attemptLogin(true));
         loginFormView = findViewById(R.id.login_form);
         progressView = findViewById(R.id.login_progress);
+        setTitle("F19 Android Project(6208)");
     }
+
 
     private void attemptLogin(boolean createUser) {
         // Reset errors.
@@ -80,7 +90,7 @@ public class WelcomeActivity extends AppCompatActivity {
             @Override
             public void onError(ObjectServerError error) {
                 showProgress(false);
-                usernameView.setError("Uh oh something went wrong! (check your logcat please)");
+                usernameView.setError("Error->)"+ error);
                 usernameView.requestFocus();
                 Log.e("Login error", error.toString());
             }
@@ -112,8 +122,8 @@ public class WelcomeActivity extends AppCompatActivity {
     }
 
     private void gotoListActivity() {
-        Intent intent = new Intent(WelcomeActivity.this, TasksActivity.class);
-        intent.putExtra(TasksActivity.INTENT_EXTRA_PROJECT_URL, Constants.REALM_URL + "/~/project");
+        Intent intent = new Intent(WelcomeActivity.this, ItemListActivity.class);
+        intent.putExtra(ItemListActivity.INTENT_EXTRA_PROJECT_URL, Constants.REALM_URL + "/~/project");
         startActivity(intent);
     }
 }
